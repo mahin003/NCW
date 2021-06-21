@@ -1,0 +1,28 @@
+.wrestlers{
+    width:30%;
+    display:flex;
+    flex-direction:column;
+    margin:10px;
+
+}
+.wrestlers img{
+    width: 270px;
+    height: 230px;
+}
+.Info{  
+    padding-top:15px;
+    width:94%;
+    text-align: center;
+}
+.main-button{
+    text-align:center;
+    background-color:orangered;
+    width: 150px;
+    height: 30px;
+    color: white;
+    margin-left: 9%;
+    border:1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
